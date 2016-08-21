@@ -1,0 +1,4 @@
+Kevin
+-----
+- page could use scrollspy instead of multiple pages
+- email form

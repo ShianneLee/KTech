@@ -1,0 +1,17 @@
+.carousel {
+	height: 500px;
+	margin-bottom: 60px;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	height: 500px;
+}
+#callus {
+	text-align: right;
+}
+nav {
+	padding: 15px 0px;
+}
