@@ -17,7 +17,7 @@
 					<li><a href="about.php">About</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
-				<div id="grey-right-align">Call Us:<br /> 416-707-3077</div>
+				<div id="callus">Call Us:<br /> 416-707-3077</div>
 			</div>
 		</div>
 	</nav>
